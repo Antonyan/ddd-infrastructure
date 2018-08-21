@@ -26,10 +26,10 @@
 
     "autoload": {
         "psr-4": {
-            "Infrastructure\\": "src/infrastructure/",
+            "Infrastructure\\": "/",
         },
         "psr-0": {
-            "Infrastructure\\Annotations\\": "src/infrastructure/Annotations"
+            "Infrastructure\\Annotations\\": "Annotations"
         }
     },
     "require-dev": {
